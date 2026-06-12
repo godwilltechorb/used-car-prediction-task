@@ -118,7 +118,7 @@ based on its specifications.
 
 ### Local (Jupyter)
 ```bash
-git clone https://github.com/godwill udoh/car-price-prediction.git
+git clone https://github.com/godwilltechorb/car-price-prediction.git
 cd car-price-prediction
 pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook car_price_prediction.ipynb
@@ -142,4 +142,4 @@ car-price-prediction/
 
 **GODWILL UDOH**
 ihifix scholar
-GitHub: `https://github.com/godwill udoh/car-price-prediction`
+GitHub: `https://github.com/godwilltechorb/car-price-prediction`
