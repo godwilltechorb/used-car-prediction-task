@@ -109,7 +109,7 @@ based on its specifications.
 
 ## How to Run
 
-### Google Colab (Recommended)
+### Google Colab 
 1. Open [colab.research.google.com](https://colab.research.google.com)
 2. **File → Upload Notebook** → upload `car_price_prediction.ipynb`
 3. Upload `car_data_jtrjuw.csv` via the **Files sidebar** (folder icon on left)
