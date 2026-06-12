@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction
+# used Car Price Prediction
 ## End-to-End Linear Regression Project
 
 ---
@@ -112,13 +112,13 @@ based on its specifications.
 ### Google Colab (Recommended)
 1. Open [colab.research.google.com](https://colab.research.google.com)
 2. **File → Upload Notebook** → upload `car_price_prediction.ipynb`
-3. Upload `Car_data.csv` via the **Files sidebar** (folder icon on left)
+3. Upload `car_data_jtrjuw.csv` via the **Files sidebar** (folder icon on left)
 4. **Runtime → Run All**
 5. `car_price_cleaned.csv` will be saved automatically after the final cell
 
 ### Local (Jupyter)
 ```bash
-git clone https://github.com/YOUR_USERNAME/car-price-prediction.git
+git clone https://github.com/godwill udoh/car-price-prediction.git
 cd car-price-prediction
 pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook car_price_prediction.ipynb
@@ -131,7 +131,7 @@ jupyter notebook car_price_prediction.ipynb
 ```
 car-price-prediction/
 ├── car_price_prediction.ipynb   ← Main notebook (47 cells, all 7 sections)
-├── Car_data.csv                 ← Original dataset from LMS
+├── Car_data_jrtjuw.csv                 ← Original dataset from LMS
 ├── car_price_cleaned.csv        ← Cleaned + encoded dataset (auto-generated)
 └── README.md                    ← This file
 ```
@@ -140,6 +140,6 @@ car-price-prediction/
 
 ## Author
 
-**[Your Full Name]**
-Data Science Student
-GitHub: `https://github.com/YOUR_USERNAME/car-price-prediction`
+**GODWILL UDOH**
+ihifix scholar
+GitHub: `https://github.com/godwill udoh/car-price-prediction`
